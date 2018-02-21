@@ -10,7 +10,7 @@
 $ yarn add redux react-redux redux-actions immutable
 ```
 
-### 3. Create main component and root component
+### 2. Create main component and root component
 
 - components/
   - App.js
@@ -22,7 +22,7 @@ $ yarn add redux react-redux redux-actions immutable
   - TodosContainer.js
 - Root.js
 
-### 4. Create files to write Redux related code
+### 3. Create files to write Redux related code
 - store
   - modules
     - counter.js
